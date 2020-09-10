@@ -1,1 +1,1 @@
-# cecs-550-project-1
+# cecs-525-project-1
